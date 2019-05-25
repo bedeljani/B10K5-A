@@ -23,6 +23,6 @@ Kegunaan JSON pada REST API adalah untuk transfer data atau statte ke REST serve
 ## Screenshot  Nomor 6
 
 * Awal
-![alt text](https://github.com/bedeljani/B10K5-A/blob/master/Arkademy/img/1.png)
+![alt text](https://github.com/bedeljani/B10K5-A/tree/master/Arkademy/6/img/1.png)
 
 

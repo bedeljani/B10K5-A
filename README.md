@@ -22,12 +22,6 @@ Kegunaan JSON pada REST API adalah untuk transfer data atau statte ke REST serve
 * Copy File ke lokasi server apache
 
 ## Screenshot  Nomor 6
-* Awal
-![alt text](https://github.com/juwar/tes-arkademy-2/blob/master/Screenshot_Awal.png)
-* Proses
-![alt text](https://github.com/juwar/tes-arkademy-2/blob/master/Screenshot_Proses.png)
-* Akhir
-![alt text](https://github.com/juwar/tes-arkademy-2/blob/master/Screenshot_Akhir.png)
 
 
-untuk nomor 1-5 dapat di buka melalui https://www.onlinegdb.com/
+

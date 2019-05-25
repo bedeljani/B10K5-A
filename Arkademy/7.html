@@ -1,0 +1,41 @@
+<html>
+<head>
+	<title>Belajar Javascript Part 6 : Membuat Function di Javascript</title>
+</head>
+<body>
+	<h1>Membuat Function di Javascript</h1>
+	<h2>www.malasngoding.com</h2>
+ 
+	<!-- id hasil -->
+	<div id="hasil"></div>
+ 
+	<script>		
+		// membuat function tampilkan_nama
+		var x = gambar(7);
+function gambar(input){
+  var j;
+  var i;
+  var output;
+  //Loop baris
+  for(j = 0; j < input; j++){
+    output = "";
+    
+  	//Loop kolom
+  	for(i = 0; i < input; i++){
+      
+      if(i == j || i == Math.abs(j - input + 1))
+        output += " X ";
+      else 
+        output += " = ";
+    }
+    
+   document.getElementById("demo").innerHTML = output;
+  }
+}
+//Cara Pemanggilan
+  
+  document.getElementById("demo").innerHTML = gambar(7);
+		
+	</script>
+</body>
+</html>

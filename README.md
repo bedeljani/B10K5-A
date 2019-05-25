@@ -9,8 +9,7 @@ Kegunaan JSON pada REST API adalah untuk transfer data atau statte ke REST serve
 
 ## Note
 * No 1-5 dapat di buka melalui https://www.onlinegdb.com/
-* No 6 menggunakan bahasa pemrograman PHP
-* No 6 menggunakan database MYSQL
+* No 6 menggunakan bahasa pemrograman PHP dan database MYSQL
 * CSS ada pada file styles.css pada folder css
 * Bootstrap 3
 * Validasi Menggunakan Javascript
